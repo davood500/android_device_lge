@@ -7,4 +7,4 @@ Device configuration for building TWRP on Rockchip reference boards
 - These device configurations should be built with the **twrp-5.1** branch.
 - Copy this project to /device/lge/ directory.
 
-I built this from the [official TWRP project for the V500](https://github.com/TeamWin/android_device_lge_v500), but used the kernel from the VK810 TWRP v2.8.7.0 build available [here](https://forum.xda-developers.com/lg-g-pad-83/orig-development/recovery-twrp-2-8-7-0-t3150812).
+I built this from the [official TWRP project for the V500](https://github.com/TeamWin/android_device_lge_v500), using the unofficial LineageOS 14.1 kernel available [here](https://updater2.invisiblek.org/vk810).
