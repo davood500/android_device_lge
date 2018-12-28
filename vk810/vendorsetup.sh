@@ -14,6 +14,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo omni_vk810-userdebug
-add_lunch_combo omni_vk810-user
 add_lunch_combo omni_vk810-eng
+

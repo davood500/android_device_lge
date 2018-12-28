@@ -14,6 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo omni_v500-userdebug
-add_lunch_combo omni_v500-user
 add_lunch_combo omni_v500-eng
